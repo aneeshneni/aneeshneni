@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aneeshneni
 - 👀 I’m interested in Computer Science and Business/Finance
-- 🌱 I’m currently learning Data Structures and Linear Algebra
-- 💞️ I’m looking to collaborate on projects with entry-level CS experience
+- 🌱 I’m currently learning Computer Architecture and Linear Algebra
+- 💞️ I’m looking to collaborate on projects with intermediate CS experience
 - 📫 How to reach me - message me on github :)
